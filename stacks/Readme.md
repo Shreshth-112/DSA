@@ -1,1 +1,1 @@
-This folder contains problems relating stack data structure.
+This folder contains problems regarding stack data structure.
